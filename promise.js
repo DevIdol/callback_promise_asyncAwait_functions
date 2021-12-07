@@ -27,3 +27,5 @@ add(result)
   .catch(() => {
     console.log('Something Wrong!')
   })
+
+  console.log('This is Promise')
